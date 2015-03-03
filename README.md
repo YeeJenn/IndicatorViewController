@@ -1,9 +1,6 @@
 # IndicatorViewController
 a custom scrollView just with a top animated indicatorBar
 
-## Result
-
-
 ## Installation
 > Just copy the file which is in `/Source/IndicatorViewController.swift` into your project.
 
