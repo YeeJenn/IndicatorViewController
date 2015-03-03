@@ -12,22 +12,34 @@
 	<dict>
 		<key>0AE84F8C6733A9C5E3BC3739B363218D5DB7F52D</key>
 		<string>ssh://github.com/LittleJim/IndicatorViewController-Swift.git</string>
+		<key>10DCD545708BB6CC047B6EA20B23963309401DCF</key>
+		<string>https://github.com/WeefJim/IndicatorViewController.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>IndicatorViewController-sample/IndicatorViewController-sample.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>0AE84F8C6733A9C5E3BC3739B363218D5DB7F52D</key>
+		<string>../../..-Swift</string>
+		<key>10DCD545708BB6CC047B6EA20B23963309401DCF</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/LittleJim/IndicatorViewController-Swift.git</string>
+	<string>https://github.com/WeefJim/IndicatorViewController.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>0AE84F8C6733A9C5E3BC3739B363218D5DB7F52D</string>
+	<string>10DCD545708BB6CC047B6EA20B23963309401DCF</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>10DCD545708BB6CC047B6EA20B23963309401DCF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IndicatorViewController</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
